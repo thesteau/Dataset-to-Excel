@@ -1,0 +1,15 @@
+OrderDate,Region,Rep,Item,Units,UnitCost,Total
+5/22/2020,West,Morgan,Pencil,32,1.99,63.68
+6/8/2020,East,Smith,Binder,60,8.99,539.4
+6/25/2020,Central,Parent,Pencil,90,4.99,449.1
+7/12/2020,East,Smith,Binder,29,1.99,57.71
+7/29/2020,East,Jones,Binder,81,19.99,1619.19
+8/15/2020,East,Howard,Pencil,35,4.99,174.65
+9/1/2020,Central,Kivell,Desk,2,125,250
+9/18/2020,East,Andrews,Pen Set,16,15.99,255.84
+10/5/2020,Central,Sorvino,Binder,28,8.99,251.72
+10/22/2020,East,Jardine,Pen,64,8.99,575.36
+11/8/2020,East,Jones,Pen,15,19.99,299.85
+11/25/2020,Central,Jones,Pen Set,96,4.99,479.04
+12/12/2020,Central,Parent,Pencil,67,1.29,86.43
+12/29/2020,East,Jones,Pen Set,74,15.99,1183.2

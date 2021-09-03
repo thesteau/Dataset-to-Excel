@@ -24,7 +24,8 @@ class DataToExcel:
             The purpose of using the dictionary is for scalable subdirectories with varying number of skipped heading rows.
             Variables:
                     partner_dictionary = {STRING - parner name (Must match the folder name): INTEGER - skip heading rows (Enter 0, otherwise any integer greater than 0)}
-                                    SAMPLE:   {"partnerName": 1,
+                                    SAMPLE:   {
+                                                "partnerName": 1,
                                                 "folder2": 0,
                                                 "OtHeR", 5
                                              }

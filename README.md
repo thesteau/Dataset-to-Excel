@@ -3,7 +3,7 @@ Aggregvates multiple folders of CSV or TSV files into an Excel file for data ana
 
 ## Prerequisites
 ```
-Python 3.7 or later
+Python 3.7 or later 3.x
 Pandas 1.2.3
 xlxswriter (latest stable release)
 ```

@@ -12,18 +12,25 @@ Pandas 1.2.3
 
 ## Getting Started
 
-After you have the required packages installed, simply run the script on the same directory as the .hyper file.
-
-However, you may run this script for the specific method as shown below.
+After you have the required packages installed, simply run the script.
 
 ```python
-import HyperConvert as hc
+import datatoexcel as dte
 
-hyper = tableau_data_path.hyper  # The exact path of the original file with the .hyper extension
-dest = destination_path.csv      # The destination path for the file with the .csv extension
-
-hc.hyper_to_csv(hyper, dest)
+dte.DataToExcel().process_data()
 ```
+or 
+---python
+import datatoexcel as dte
+
+aggregate = dte.DataToExcel()
+aggregate.process_data()
+---
+
+Either case, you are going to be prompted with the following:
+---python
+Enter folder source path: 
+---
 
 ## Usage
 

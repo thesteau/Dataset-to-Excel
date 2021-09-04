@@ -23,13 +23,12 @@ Note: Each key and value corresponds to the following:
 ```
 Please ensure that this is the following folder structure:
 ```graphql
-Example: Parent directory is, for Windows, where the parent directory: +, subdirectory: *, and file: ^.
-    +C:\downloads
-    |          |
-    *folder1   *partnerName
-    |          |
-    ^file.csv  | ^ partnerfile.tsv  # Please have one filetype per folder if the data's structure differs 
-               | ^ Partner2.csv     # (Such as headings, columns, etc.)
+C:\downloads
+  ├─ folder1
+  |  └─ file.csv   
+  └─ partnerName
+     ├─ partnerfile.tsv  # Please have one filetype per folder if the data's structure differs 
+     └─ Partner2.csv     # (Such as headings, columns, etc.)
 ```
 ---
 Afterwards, simply run or import the module. (These two scenarios assume that you are importing this module)

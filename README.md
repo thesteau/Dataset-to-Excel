@@ -20,17 +20,17 @@ import datatoexcel as dte
 dte.DataToExcel().process_data()
 ```  
 or  
----python
+```python
 import datatoexcel as dte
 
 aggregate = dte.DataToExcel()
 aggregate.process_data()
----
+```
    
 Either case, you are going to be prompted with the following:
----python
+```python
 Enter folder source path: 
----
+```
 
 ## Usage
 

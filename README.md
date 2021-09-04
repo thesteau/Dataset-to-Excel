@@ -28,7 +28,7 @@ aggregate.process_data()
 ```
    
 Either case, you are going to be prompted with the following:
-```python
+```
 Enter folder source path: 
 ```
 

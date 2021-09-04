@@ -5,6 +5,7 @@ Aggregvates multiple folders of CSV or TSV files into an Excel file for data ana
 ```
 Python 3.7 or later
 Pandas 1.2.3
+xlxswriter (latest stable release)
 ```
 
 ## Getting Started
@@ -58,6 +59,10 @@ Enter folder source path: C:\SampleFolder
 ```
 
 ## Results
+On the entered path, you will find an Excel file with the following details:
+```
+SCREENSHOT
+```
 
 ## Author
 Steven Au

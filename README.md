@@ -59,7 +59,7 @@ Enter folder source path: C:\SampleFolder
 ```
 
 ## Results
-On the entered path, you will find an Excel file with the following details:
+On the entered path, you will find an Excel file with the following merged data with tabs seperated by the subdirectories:
 ```
 SCREENSHOT
 ```

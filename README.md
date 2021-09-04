@@ -10,7 +10,7 @@ xlxswriter (latest stable release)
 
 ## Getting Started
 
-After you have the required packages installed, please update the "partner_dictionary" to include your subdirectories.
+After you have the required packages installed, please update the "partner_dictionary" to include your subdirectories under the ```the_partners()``` method.
 ```python
 partner_dictionary = {
                "SampleData": 0,

@@ -31,7 +31,7 @@ Example: Parent directory is, for Windows, where the parent directory: +, subdir
     ^file.csv  | ^ partnerfile.tsv  # Please have only one filetype per folder if the data's structure differs (Such as headings, columns, etc.)
                | ^ Partner2.csv
 ```
-
+---
 Afterwards, simply run or import the module. (These two scenarios assume that you are importing this module)
 ```python
 import datatoexcel as dte
@@ -45,6 +45,7 @@ import datatoexcel as dte
 aggregate = dte.DataToExcel()
 aggregate.process_data()
 ```
+---
 Either case, you are going to be prompted with the following:
 ```
 Enter folder source path: 

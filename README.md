@@ -69,6 +69,3 @@ Steven Au
 
 ## License
 See the LICENSE.md for details
-
-## Acknowledgements
-Special thanks to the original developer of the Pantab module!

@@ -50,7 +50,7 @@ Either case, you are going to be prompted with the following:
 ```
 Enter folder source path: 
 ```
-Enter the apprpriate full folder path with subdirectories of files (CSV, TSV):
+Enter the appropriate full folder path with subdirectories of files (CSV, TSV):
 ```Mac
 Enter folder source path: /SampleFolder
 ```

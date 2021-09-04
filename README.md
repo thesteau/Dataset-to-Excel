@@ -25,13 +25,13 @@ Each key and value corresponds to the following:
 ```
 Please ensure that this is the following folder structure:
 ```
-            Example: Parent directory is, for Windows, where the parent directory: +, subdirectory: *, and file: ^.
-                +C:\downloads
-                |          |
-                *folder1   *partnerName
-                |          |
-                ^file.csv  | ^ partnerfile.tsv  # Please have only one filetype per folder if the data's structure differs (Such as headings, columns, etc.)
-                           | ^ Partner2.csv
+Example: Parent directory is, for Windows, where the parent directory: +, subdirectory: *, and file: ^.
+    +C:\downloads
+    |          |
+    *folder1   *partnerName
+    |          |
+    ^file.csv  | ^ partnerfile.tsv  # Please have only one filetype per folder if the data's structure differs (Such as headings, columns, etc.)
+               | ^ Partner2.csv
 ```
 
 Afterwards, simply run or import the module. (These two scenarios assume that you are importing this module)

@@ -25,7 +25,7 @@ Please ensure that this is the following folder structure:
 ```graphql
 C:\downloads
   ├─ folder1
-  |  └─ file.csv   
+  │  └─ file.csv   
   └─ partnerName
      ├─ partnerfile.tsv  # Please have one filetype per folder if the data's structure differs 
      └─ Partner2.csv     # (Such as headings, columns, etc.)

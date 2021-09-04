@@ -17,7 +17,7 @@ partner_dictionary = {
                "SkippingSample", 2
          }
 ```
-Each key and value corresponds to the following:  
+Note: Each key and value corresponds to the following:  
 ```
 {STRING - parner name (Must match the folder name): INTEGER - skip heading rows (Enter 0, otherwise any integer greater than 0)}
 ```

@@ -45,13 +45,10 @@ Enter the apprpriate full folder path with subdirectories of files (CSV, TSV):
 ```Mac
 Enter folder source path: /SampleFolder
 ```
-Or for widnows
+Or for Windows
 ```Windows
 Enter folder source path: C:\SampleFolder
 ```
-## Usage
-
-
 
 ## Author
 Steven Au

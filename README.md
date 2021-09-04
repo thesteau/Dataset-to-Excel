@@ -23,12 +23,13 @@ Note: Each key and value corresponds to the following:
 ```
 Please ensure that this is the following folder structure:
 ```graphql
-C:\downloads
-  ├─ folder1
-  │  └─ file.csv   
-  └─ partnerName
-     ├─ partnerfile.tsv  # Please have one filetype per folder if the data's structure differs 
-     └─ Partner2.csv     # (Such as headings, columns, etc.)
+C:\SampleFolder
+  ├─ SampleData
+  │  ├─ randompart1.csv
+  │  └─ randompart2.csv   
+  └─ SkippingSample
+     ├─ skipSample.tsv    # Please have one filetype per folder if the data's structure differs 
+     └─ skipSample2.csv   # (Such as headings, columns, etc.)
 ```
 ---
 Afterwards, simply run or import the module. (These two scenarios assume that you are importing this module)

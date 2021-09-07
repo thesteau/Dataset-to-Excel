@@ -1,5 +1,5 @@
 # Dataset-to-Excel
-Aggregvates multiple folders of CSV or TSV files into an Excel file for data analysis.
+Aggregates multiple folders of CSV or TSV files into an Excel file for data analysis.
 
 ## Prerequisites
 ```

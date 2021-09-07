@@ -4,7 +4,7 @@ Aggregates multiple folders of CSV or TSV files into an Excel file for data anal
 ## Prerequisites
 ```
 Python 3.7 or later 3.x
-pandas
+pandas 1.3.2
 xlxswriter (latest stable release)
 ```
 

@@ -64,6 +64,9 @@ On the entered path, you will find an Excel file with the following merged data 
 
 ![image](https://raw.githubusercontent.com/thesteau/Dataset-to-Excel/main/images/Capture.PNG)
 
+## Motivation
+This program was created when I was an analyst. We had a ton of files from several partners (Such as Apple, Microsoft, etc). Humanly, processing all the data would take hours so I had developed this program to automate the aggregation process with the pandas library to produce an Excel file.
+
 ## Author
 Steven Au
 
